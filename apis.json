@@ -1,0 +1,59 @@
+{
+    "name": "SmartyStreets",
+    "description": "Address Verification tools for USPS & International Addresses. Verify addresses with our easy-to-use list processing tools, APIs with 100% uptime, and more.",
+    "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/screen-capture-api\/433-smartystreets.jpg",
+    "tags": [
+        "address verification",
+        "addresses",
+        "geo",
+        "have api",
+        "locations"
+    ],
+    "created": "2019-12-19",
+    "modified": "2019-12-19",
+    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/smartystreets\/master\/apis.json",
+    "specificationVersion": "0.14",
+    "apis": [
+        {
+            "name": "SmartyStreets",
+            "description": null,
+            "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/screen-capture-api\/433-smartystreets.jpg",
+            "humanURL": "http:\/\/www.smartystreets.com\/Products\/LiveAddress-API\/",
+            "baseURL": "",
+            "tags": [],
+            "properties": [
+                {
+                    "type": "x-postman-collecction",
+                    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/1forge\/master\/smartystreets-postman-collection.json"
+                }
+            ]
+        }
+    ],
+    "include": [],
+    "x-common": [
+        {
+            "type": "Blog RSS",
+            "url": "http:\/\/smartystreets.com\/blog\/feed"
+        },
+        {
+            "type": "Crunchbase",
+            "url": "https:\/\/crunchbase.com\/organization\/smartystreets"
+        },
+        {
+            "type": "Email",
+            "url": "support@smartystreets.com"
+        },
+        {
+            "type": "Email",
+            "url": "info@smartystreets.com"
+        },
+        {
+            "type": "Twitter",
+            "url": "https:\/\/twitter.com\/#!\/smartystreets"
+        },
+        {
+            "type": "Website",
+            "url": "http:\/\/www.smartystreets.com\/Products\/LiveAddress-API\/"
+        }
+    ]
+}
